@@ -1,0 +1,4 @@
+/Users/hupercloud7/workshops/dsba-wshp01v2/build/CMakeFiles/ex1.dir
+/Users/hupercloud7/workshops/dsba-wshp01v2/build/CMakeFiles/ex2.dir
+/Users/hupercloud7/workshops/dsba-wshp01v2/build/CMakeFiles/edit_cache.dir
+/Users/hupercloud7/workshops/dsba-wshp01v2/build/CMakeFiles/rebuild_cache.dir

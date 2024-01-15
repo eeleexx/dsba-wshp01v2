@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/hupercloud7/workshops/dsba-wshp01v2/build",
+  "command": "/usr/bin/clang++   -g -O0 -Werror=return-type -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/ex1.dir/ex1/main.cpp.o -c /Users/hupercloud7/workshops/dsba-wshp01v2/helloworld/src/ex1/main.cpp",
+  "file": "/Users/hupercloud7/workshops/dsba-wshp01v2/helloworld/src/ex1/main.cpp",
+  "output": "CMakeFiles/ex1.dir/ex1/main.cpp.o"
+},
+{
+  "directory": "/Users/hupercloud7/workshops/dsba-wshp01v2/build",
+  "command": "/usr/bin/clang++   -g -O0 -Werror=return-type -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/ex2.dir/ex2/main.cpp.o -c /Users/hupercloud7/workshops/dsba-wshp01v2/helloworld/src/ex2/main.cpp",
+  "file": "/Users/hupercloud7/workshops/dsba-wshp01v2/helloworld/src/ex2/main.cpp",
+  "output": "CMakeFiles/ex2.dir/ex2/main.cpp.o"
+},
+{
+  "directory": "/Users/hupercloud7/workshops/dsba-wshp01v2/build",
+  "command": "/usr/bin/clang++   -g -O0 -Werror=return-type -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/ex2.dir/ex2/foo.cpp.o -c /Users/hupercloud7/workshops/dsba-wshp01v2/helloworld/src/ex2/foo.cpp",
+  "file": "/Users/hupercloud7/workshops/dsba-wshp01v2/helloworld/src/ex2/foo.cpp",
+  "output": "CMakeFiles/ex2.dir/ex2/foo.cpp.o"
+}
+]
